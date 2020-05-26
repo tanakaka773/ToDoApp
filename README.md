@@ -14,6 +14,10 @@ Ruby on Railsの基礎を学習したくて作りました。
 CSSライブラリを使っての実装。
 ログイン機能の実装。
 
+# 接続先URL
+
+https://afternoon-beyond-78853.herokuapp.com/
+
 
 ## users
 |Column|Type|Options|
