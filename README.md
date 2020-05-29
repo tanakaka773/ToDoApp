@@ -14,8 +14,7 @@ webサービスによく使われている技術を実装したアプリ開発�
 
 # イメージ画像
 
-![](https://i.gyazo.com/
-d04f07f5f85eea4ac95f516563ef981b.png)
+<img width="720" alt="DEMO" src="https://user-images.githubusercontent.com/62636793/83269898-b3e53a00-a202-11ea-87aa-0317e93bc7a9.png">
 
 # 接続先URL
 
